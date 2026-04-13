@@ -1,0 +1,5 @@
+Segment,R_Min,R_Max,R_Median,F_Min,F_Max,F_Median,M_Min,M_Max,M_Median,Total_Revenue,Customer_Count,Market_Share_Pct,Revenue_Share_Pct,Avg_Customer_LTV
+Lost / Low Value,1.68,12.25,7.23,1,6,1.0,3.75,1542.08,237.61,296567.961,1053,25.55,6.1,281.64
+At Risk / Occasional,0.0,2.83,0.92,1,7,1.0,6.9,2328.84,346.12,372380.14,931,22.59,7.66,399.98
+Recent / Potential Loyal,0.69,10.35,2.79,1,9,3.0,167.5,6207.67,898.685,1051827.902,938,22.76,21.63,1121.35
+Champions / Loyal,0.0,3.25,0.49,1,21,6.0,306.71999999999997,12669.98,2085.08,3142192.7600000002,1199,29.09,64.61,2620.68

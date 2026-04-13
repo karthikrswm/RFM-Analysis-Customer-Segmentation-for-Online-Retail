@@ -1,0 +1,14 @@
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.env
+.venv
+env.bak/
+venv.bak/

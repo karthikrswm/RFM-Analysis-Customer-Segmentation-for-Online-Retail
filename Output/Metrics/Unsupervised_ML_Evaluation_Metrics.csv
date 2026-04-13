@@ -1,0 +1,4 @@
+Metric,Value,Interpretation
+Silhouette Score,0.3629,Higher is better (Closer to 1)
+Davies-Bouldin Index,0.9818,Lower is better
+Calinski-Harabasz Index,3713.3878,Higher is better
